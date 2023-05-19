@@ -1,0 +1,9 @@
+:root {
+    --cor-de-fundo: #95d6ff;
+    --cor-cabecalho: #95d6ff;
+    --fundo-menu: #3aadf5;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
