@@ -6,4 +6,27 @@
 
 body {
     background-color: var(--cor-de-fundo);
+    text-align: center;
+}
+
+.cabecalho-menu-item{
+    display: block;
+    padding: 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    border: 1px solid;
+}
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
+.chora-mengo{
+width: 250px;
+
+
 }
