@@ -1,7 +1,7 @@
 :root {
-    --cor-de-fundo: #95d6ff;
-    --cor-cabecalho: #95d6ff;
-    --fundo-menu: #3aadf5;
+    --cor-de-fundo: hsl(103, 88%, 38%);
+    --cor-cabecalho: #165507;
+    --fundo-menu: #34b33a;
 }
 
 body {
@@ -30,3 +30,14 @@ width: 250px;
 
 
 }
+#burguer {
+    background-color: rgb(71, 71, 255);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    }
+    #menu {
+    display: none;
+    }
+    
